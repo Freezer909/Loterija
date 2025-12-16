@@ -11,7 +11,7 @@ public class Loterija {
 
 	public static void main(String[] args) {
 
-		String izvele, vards="";
+		String izvele;
 		Stack<Integer> LaimBumbinas = new Stack<>();
 		Stack<Integer> Bumbinas = new Stack<>();
 		
